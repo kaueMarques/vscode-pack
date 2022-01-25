@@ -1,9 +1,9 @@
 {
-    "name": "kmb-vscode-java",
+    "name": "kmb-vscode-utils",
     "publisher": "kauMarques",
-    "displayName": "kmb VSUtils Java",
+    "displayName": "kmb VSUtils Lite",
     "description": "My VSCODE Utils",
-    "version": "1.0.0",
+    "version": "2.0.1",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -12,9 +12,27 @@
     ],
     "extensionPack": [ 
     "kaueMarques.kmb-utils",
-    "vscjava.vscode-java-pack",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "formulahendry.auto-rename-tag",
+    "alefragnani.Bookmarks",
+    "GitHub.github-vscode-theme",
+    "ritwickdey.LiveServer",
+    "MS-vsliveshare.vsliveshare",
+    "bierner.markdown-preview-github-styles",
+    "pkief.material-icon-theme",
     "grogdunn.netbeans-keybindings",
-    "asf.apache-netbeans-java",
-    "obrejla.netbeans-light-theme"
+    "ibm.output-colorizer",
+    "jock.svg",
+    "rangav.vscode-thunder-client",
+    "visualstudioexptteam.vscodeintellicode",
+    "redhat.vscode-xml",
+    "formulahendry.auto-close-tag",
+    "quicktype.quicktype",
+    "tomoki1207.pdf",
+    "naumovs.color-highlight",
+    "ms-vscode-remote.remote-containers",
+    "grapecity.gc-excelviewer",
+    ""
     ]
 }

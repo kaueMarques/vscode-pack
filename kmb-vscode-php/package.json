@@ -1,0 +1,16 @@
+{
+    "name": "kmb-vscode-php",
+    "publisher": "kauMarques",
+    "displayName": "kmb VSUtils PHP Family",
+    "description": "My VSCODE Utils",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+
+    ]
+}
