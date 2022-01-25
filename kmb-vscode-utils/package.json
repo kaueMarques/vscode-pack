@@ -1,0 +1,20 @@
+{
+    "name": "kmb-vscode-java",
+    "publisher": "kauMarques",
+    "displayName": "kmb VSUtils Java",
+    "description": "My VSCODE Utils",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+    "kaueMarques.kmb-utils",
+    "vscjava.vscode-java-pack",
+    "grogdunn.netbeans-keybindings",
+    "asf.apache-netbeans-java",
+    "obrejla.netbeans-light-theme"
+    ]
+}
