@@ -3,7 +3,7 @@
     "publisher": "kauMarques",
     "displayName": "kmb VSUtils  Theme #1",
     "description": "My VSCODE Utils",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": "https://github.com/kaueMarques/vscode-pack",
     "engines": {
         "vscode": "^1.63.0"
