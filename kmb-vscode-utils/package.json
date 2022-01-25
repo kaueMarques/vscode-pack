@@ -11,7 +11,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-    "kaueMarques.kmb-utils",
+    "kaueMarques.kmb-vscode-utils",
     "mhutchie.git-graph",
     "eamodio.gitlens",
     "formulahendry.auto-rename-tag",
